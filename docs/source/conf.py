@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PaCMAP'
+copyright = '2021, Yingfan Wang, Haiyang Huang, Cynthia Rudin, and Yaron Shaposhnik'
+author = 'Yingfan Wang, Haiyang Huang, Cynthia Rudin, and Yaron Shaposhnik'
 
-release = '0.1'
-version = '0.1.0'
+release = '0.5'
+version = '0.5.4'
 
 # -- General configuration
 
