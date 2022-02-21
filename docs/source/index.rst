@@ -1,10 +1,12 @@
-Welcome to Lumache's documentation!
+Welcome to PaCMAP's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**PaCMAP** is a Python library for dimensionality reduction that can be used
+for robust data visualiztion.
+PaCMAP optimizes the low dimensional embedding using three kinds of pairs of 
+points: neighbor pairs (`pair_neighbors`), mid-near pair (`pair_MN`), and 
+further pairs (`pair_FP`).
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
